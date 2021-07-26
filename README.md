@@ -1,7 +1,6 @@
 # Lost_Souls
 Arcade-style game by Jason Middlebrook made for the ETSU ACM's Spring 2020 Game Jam!<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Included in this repository are the GDscript files and the pixel art used for the game.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright Jeffrey Richards, all rights reserved.<br>
 <br>
 Programming and Design by Jason Middlebrook<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Music composed by Jason Middlebrook<br>
